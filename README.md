@@ -8,3 +8,8 @@ Python
 
 
 This reverse shell is still in development. A GUI will be added soon.
+
+
+<b>Legal Warning</b>
+
+While this may be helpful for some, there are significant risks. This reverse shell may be used only for Educational Purposes. Do not use it as a malware program! You could go to jail!
