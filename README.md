@@ -19,3 +19,6 @@ While this may be helpful for some, there are significant risks. This reverse sh
 
 I'm nearly always available on Discord!
 https://discord.gg/KMFFFr
+
+
+<iframe src="https://discordapp.com/widget?id=492017137771347978&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
