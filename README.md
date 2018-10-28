@@ -2,7 +2,7 @@
 A simple reverse shell. It's server is written in JavaScript and the client in Python
 
 
-Dependencies:
+<b>Dependencies:</b>
 Node
 Python
 
