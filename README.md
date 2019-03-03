@@ -20,5 +20,4 @@ While this may be helpful for some, there are significant risks. This reverse sh
 <b>Hit Me Up!</b>
 
 I'm nearly always available on Discord!
-https://discord.gg/KMFFFr
-
+https://discord.gg/HpeSUgr
